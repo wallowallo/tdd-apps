@@ -1,0 +1,10 @@
+- javascript was written somewhere in 1998. maybe earlier
+- everyone was fighting and try to provide a standard solution to writing webplications in the browser
+- netscape wanted javascript to work with html and css directly in the browser
+- js was written in 10 days with java syntax
+- echma script
+- got suns permission to call it javascript
+- es (echma script) 6
+- google made a js engine named v8 for chrome
+- seperated v8 engine from chrome and used it to create node(javacript backend)
+- 
