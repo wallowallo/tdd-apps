@@ -1,4 +1,3 @@
-console.log("hello");
 // make app that prints any prime number under 20
 var numbers = process.argv[2];
 for (var i = 1; i <= numbers; i++) {
