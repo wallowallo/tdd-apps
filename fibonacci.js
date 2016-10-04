@@ -12,7 +12,8 @@ function fibonacciSequence(number) {
     if(number <= fib[i]) {
       return;
     };
-    console.log(fib);
+    //console.log(fib);  // prints the whole array everytime
+    console.log(fib[i]); // prints the numbers, looks cleaner
   };
 }
 fibonacciSequence(process.argv[2]);
